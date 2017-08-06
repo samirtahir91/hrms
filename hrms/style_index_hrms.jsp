@@ -40,7 +40,7 @@
 </table>
 </form>
 </div>
-<h1><strong>Human Resource Management System<span class="c1">.</span></strong></h1>
+<h1><strong>Human Resource Management System by Samir<span class="c1">.</span></strong></h1>
 
 </div>
 <div id="sidebar">
